@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Home: React.FC = () => {
-  return <div>Home</div>;
+  return <div className="bg-neutral-700 h-screen">Home</div>;
 };
 
 export default Home;
